@@ -1,4 +1,17 @@
-### Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+  <source media="(prefers-color-scheme: light)" srcset="https://images.squarespace-cdn.com/content/v1/56995d851a5203aa7d492ae6/1453137303277-JGTTOLM1KEBNWL1LI9BI/Map+Logo+v2-06.jpg">
+  <img alt="A globe with the letter E within it, on a pole made by a letter L with a small letter s wrapped around it. The author's initials: E-S-L" src="https://images.squarespace-cdn.com/content/v1/56995d851a5203aa7d492ae6/1453137303277-JGTTOLM1KEBNWL1LI9BI/Map+Logo+v2-06.jpg" width=30%>
+</picture>
+
+## About me
+I love to learn, I love to teach and I especially like to communicate data and analysis with the people that need it.
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FadirTorcer&langs_count=5&theme=tokyonight)]()
 
 <!--
 **FadirTorcer/FadirTorcer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
