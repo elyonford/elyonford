@@ -43,7 +43,7 @@ Previous roles include petroleum geophysicist, fiber-optic network designer, GIS
 #### GIS
 <p> <a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview" target="_blank" rel="noreferrer"> <img src="https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/ArcGIS-Pro.png" alt="arcgispro" width="40" height="40"/> </a> 
   <a href="https://www.esri.com/en-us/arcgis/products/arcgis-online/overview" target="_blank" rel="noreferrer"> <img src="https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/ArcGISOnline.png" alt="arcgisonline" width="40" height="40"/> </a>
-  <a href="https://www.3-gis.com/en/fiber-network-planning-management-software-3-gis" target="_blank" rel="noreferrer"> <img src="https://www.3-gis.com/hubfs/2020_theme_graphics/logo-landscape.svg" alt="3gis" width="40" height="40"/> </a> </p>
+  <!--a href="https://www.3-gis.com/en/fiber-network-planning-management-software-3-gis" target="_blank" rel="noreferrer"> <img src="https://www.3-gis.com/hubfs/2020_theme_graphics/logo-landscape.svg" alt="3gis" width="40" height="40"/> </a --> </p>
 
 ### 💬 Ask me about ...
 - Energy transition
