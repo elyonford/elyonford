@@ -11,9 +11,12 @@ I love to learn, I love to teach and I especially like to communicate data and a
 Previous roles include petroleum geophysicist, fiber-optic network designer, GIS analyst and innovation specialist.
 
 ### 🔭 I’m currently working on ...
+- A time-series analysis looking at temperature trends in different US metros. _Check out the related [presentation] (https://docs.google.com/presentation/d/1cWIgO8fuc5IncjIiFisl64bL137S0AUMj_q_ECu6g5w/edit?usp=sharing)_
+- A Streamlit page, modeled after Adrienne Anderson's demonstration at PyKC's Summer Meetup.
+
+### 📜 Previous development
 - A [family tree app](https://github.com/Jan-23-Liftoff-KC/team-michael-group-repo), with the wonderful Saplings Team!  
  The Saplings are myself, [David Kelsey](https://www.github.com/dkelsey526), [Teresa Tull](https://www.github.com/TNTull), [Emily Spradling](https://www.github.com/spraded) and [Gabriel Valencia](https://www.github.com/gvalencia4). Check out their work, and drop them a line if you need a developer! _To be deployed..._
-- A bartering app, where folks in search of coaching trade goods or services with ICF certified coaches for sessions.
 
 ### 💻 My tech stack ...
 #### Languages and frameworks
@@ -32,13 +35,11 @@ Previous roles include petroleum geophysicist, fiber-optic network designer, GIS
 
 #### Tools
 <p>  
-  <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/> </a>
-  <a href="https://support--rstudio-com.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" alt="rstudio" width="40" height="40"/> </a>
   <a href="https://trello.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" alt="trello" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </p> 
+</p> 
 
 #### GIS
 <p> <a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview" target="_blank" rel="noreferrer"> <img src="https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/ArcGIS-Pro.png" alt="arcgispro" width="40" height="40"/> </a> 
@@ -47,7 +48,7 @@ Previous roles include petroleum geophysicist, fiber-optic network designer, GIS
 
 ### 💬 Ask me about ...
 - Energy transition
-- [Pro-Earth Ideas](https://ericlyonford.com/digitalgarden/2022/12/10/what-about-using-blast-furnaces-to-fuel-plastic-removal-barges-in-the-ocean)
+- [Sustainability Ideas](https://ericlyonford.com/digitalgarden/2022/12/10/what-about-using-blast-furnaces-to-fuel-plastic-removal-barges-in-the-ocean)
 - [Geology](https://ericlyonford.com/digitalgarden/2023/3/10/limestone)
 - [Physics](https://ericlyonford.com/digitalgarden/2023/3/10/phase-rotation-upon-reflection)
 
