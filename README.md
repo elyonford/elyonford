@@ -51,10 +51,10 @@ Previous roles include petroleum geophysicist, fiber-optic network designer, GIS
 - [Geology](https://ericlyonford.com/digitalgarden/2023/3/10/limestone)
 - [Physics](https://ericlyonford.com/digitalgarden/2023/3/10/phase-rotation-upon-reflection)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FadirTorcer&langs_count=5&theme=githublight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=elyonford&langs_count=5&theme=githublight)]()
 
 <!--
-**FadirTorcer/FadirTorcer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**elyonford/elyonford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
